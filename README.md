@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 
+<img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png?raw=true" alt="damian cichowicz"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/damian cichowicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian cichowicz" height="30" width="40" /></a>
