@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate front-end developer from Poland</h3>
-
 <img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png?raw=true" alt="damian cichowicz"/>
 
 <h3 align="left">Connect with me:</h3>
