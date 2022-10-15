@@ -49,7 +49,7 @@ Everyday I'm still learning new things 🔍 and i am keen to gain more and more 
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/damian-cichowicz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="62" height="62" /></a>
-<a href="https://www.github.com/XIIIDCX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="62" height="62" /></a>
+<a href="https://damian-portfolio.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/XIIIDCX/XIIIDCX/blob/main/logo.png" width="62" height="62" /></a>
 </p>
 <br>
 <br>
