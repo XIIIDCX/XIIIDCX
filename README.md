@@ -1,6 +1,6 @@
 <!-- header img -->
 
-<img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png?raw=true" alt="damian cichowicz"/>
+<img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/a130314d347fbb4f409271c3ab5d60eb62705457/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="damian cichowicz"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian / XIIIDCX
 ========================================================================================================================================
