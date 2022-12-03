@@ -53,12 +53,6 @@ Everyday I'm still learning new things 🔍 and i am keen to gain more and more 
 </p>
 <br>
 <br>
-
-![snake gif](https://github.com/XIIIDCX/myGitActions/blob/output/github-contribution-grid-snake.gif?raw=true)
-<br>
-<br>
-<br>
-<br>
 <br>
 <!-- footer ascii img -->
 <img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/main/XIIIDCX%20(1).png?raw=true" alt="xiiidcx"/>
