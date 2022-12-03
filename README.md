@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian / XIIIDCX
 ========================================================================================================================================
 
-junior front-end developer
+trainee front-end developer
 --------------------------------------
 <br>
 35 years old husband and father. 👪🏻 <br>
@@ -21,7 +21,7 @@ Everyday I'm still learning new things 🔍 and i am keen to gain more and more 
 
 * 🌍  I'm based in Szczecin / Poland
 * ✉️  You can contact me at [xiiidcx@gmail.com](mailto:xiiidcx@gmail.com)
-* 🧠  I'm learning TypeScript, React and Qwik
+* 🧠  I'm learning TypeScript and React
 * 🤝  I'm open to collaborating on web development
 * ⚡  I am a guitarist, but unfortunately not very good one...
 
