@@ -15,7 +15,8 @@ I recently began to be fascinated by web programming. <br>
 I signed up and completed my studies gaining the necessary skills. 🎓 <br>
 <br>
 Now I'm on the way to become a fullstack developer. <br>
-Everyday I'm still learning new things 🔍 and i am keen to gain more and more experience in the field. 💻 <br>
+Everyday I'm still learning new things 🔍 <br>
+and i am keen to gain more and more experience in the field. 💻 <br>
 <br>
 <br>
 
