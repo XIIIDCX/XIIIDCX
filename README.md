@@ -46,8 +46,12 @@ and i am keen to gain more and more experience in the field. 💻 <br>
 ### Socials
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/damian-cichowicz" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="62" height="62" /></a>
-<a href="https://damian-portfolio.netlify.app/" target="blank" rel="noreferrer"><img src="https://github.com/XIIIDCX/XIIIDCX/blob/main/logo.png" width="62" height="62" /></a>
+<a href="https://www.linkedin.com/in/damian-cichowicz" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="46" height="46" /></a>
+
+  
+ ### Portfolio
+<a href="https://damian-portfolio.netlify.app/" target="blank" rel="noreferrer"><img src="https://github.com/XIIIDCX/XIIIDCX/blob/main/logo.png" width="50" height="52" /></a>  
+  
 </p>
 <br>
 <br>
