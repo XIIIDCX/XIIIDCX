@@ -1,11 +1,11 @@
 <!-- header img -->
 
-<img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/a130314d347fbb4f409271c3ab5d60eb62705457/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="damian cichowicz"/>
+<img align="center" src="https://github.com/XIIIDCX/XIIIDCX/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="damian cichowicz"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian / XIIIDCX
 ========================================================================================================================================
 
-trainee front-end developer
+junior front-end developer
 --------------------------------------
 <br>
 35 years old husband and father. 👪🏻 <br>
@@ -30,7 +30,6 @@ and i am keen to gain more and more experience in the field. 💻 <br>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
